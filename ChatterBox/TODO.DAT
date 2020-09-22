@@ -1,0 +1,9 @@
+[Tasks]
+Count=7
+task1=Have a list box with all of the connected user's nicknames in it.
+task2=Complete basMerlin module
+task3=Check MS Agent License Agreement
+task4=*Get a ICON for frmSplash
+task5=*Volume Control for Agent
+task6=*Routine to find Path of Agent Files (NT & 9x are different paths)
+task7=*Add Splash / About form
